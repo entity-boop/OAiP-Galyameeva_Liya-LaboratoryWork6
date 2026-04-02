@@ -1,0 +1,36 @@
+﻿<Window x:Class="laba6._5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:laba6"
+        mc:Ignorable="d"
+        Title="_5" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label>Задание 5 (4.3 - 9)</Label>
+
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Отражение матрицы. Учтите, матрица НЕ должна быть квадратной." FontSize="17" Foreground="Red"/>
+            
+            <TextBlock Text="Введите высоту массива:" FontSize="17"/>
+            <TextBox x:Name="InputHeight"/>
+
+            <TextBlock Text="Введите ширину массива:" FontSize="17"/>
+            <TextBox x:Name="InputWidth"/>
+
+            <Button x:Name="Go_Reverse_Matrix" Content="Отразить матрицу" Click="Reverse_Matrix"/>
+            <Label>Оригинальная матрица:</Label>
+            <TextBlock x:Name="ShowMatrix" Padding="10"/>
+
+            <Label>Отраженная матрица:</Label>
+            <TextBlock x:Name="ShowReversedMatrix" Padding="10"/>
+
+            <Button x:Name="GoToNextButton" Content="Задание 6 →" Width="120" Height="35" Background="Orange" Click="GoToNextButton_Click5"/>
+        </StackPanel>
+    </Grid>
+</Window>

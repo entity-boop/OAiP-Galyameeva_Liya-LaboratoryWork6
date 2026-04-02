@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\oaip-galyameeva_liya-laboratorywork-6\\4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\oaip-galyameeva_liya-laboratorywork-6\\2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|c:\\users\\msi\\desktop\\cs\\laba6\\laba6\\4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62E40A1D-4D86-41E0-B55E-C0285DE030BA}|laba6\\laba6.csproj|solutionrelative:laba6\\4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\2.xaml.cs",
+              "RelativeDocumentMoniker": "laba6\\2.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\2.xaml.cs",
+              "RelativeToolTip": "laba6\\2.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:00:12.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\5.xaml.cs",
+              "RelativeDocumentMoniker": "laba6\\5.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\5.xaml.cs",
+              "RelativeToolTip": "laba6\\5.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T05:44:48.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "6.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\6.xaml",
+              "RelativeDocumentMoniker": "laba6\\6.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\6.xaml",
+              "RelativeToolTip": "laba6\\6.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T06:50:13.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\4.xaml.cs",
+              "RelativeDocumentMoniker": "laba6\\4.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\4.xaml.cs",
+              "RelativeToolTip": "laba6\\4.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwFoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:50:18.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\6.xaml.cs",
+              "RelativeDocumentMoniker": "laba6\\6.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\6.xaml.cs",
+              "RelativeToolTip": "laba6\\6.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:10:07.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "laba6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "laba6\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:00:25.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "2.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\2.xaml",
+              "RelativeDocumentMoniker": "laba6\\2.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\2.xaml",
+              "RelativeToolTip": "laba6\\2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T16:39:01.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "laba6\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\MainWindow.xaml",
+              "RelativeToolTip": "laba6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T10:59:03.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\3.xaml",
+              "RelativeDocumentMoniker": "laba6\\3.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\3.xaml",
+              "RelativeToolTip": "laba6\\3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T06:50:24.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\3.xaml.cs",
+              "RelativeDocumentMoniker": "laba6\\3.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\3.xaml.cs",
+              "RelativeToolTip": "laba6\\3.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:50:42.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "5.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\5.xaml",
+              "RelativeDocumentMoniker": "laba6\\5.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\5.xaml",
+              "RelativeToolTip": "laba6\\5.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T18:29:02.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\OAiP-Galyameeva_Liya-LaboratoryWork-6\\2.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\OAiP-Galyameeva_Liya-LaboratoryWork-6\\2.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\OAiP-Galyameeva_Liya-LaboratoryWork-6\\2.xaml.cs",
+              "RelativeToolTip": "..\\..\\OAiP-Galyameeva_Liya-LaboratoryWork-6\\2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T10:47:37.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "laba6\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\AssemblyInfo.cs",
+              "RelativeToolTip": "laba6\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:16:50.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\App.xaml",
+              "RelativeDocumentMoniker": "laba6\\App.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\App.xaml",
+              "RelativeToolTip": "laba6\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T05:16:53.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\OAiP-Galyameeva_Liya-LaboratoryWork-6\\4.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\OAiP-Galyameeva_Liya-LaboratoryWork-6\\4.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\OAiP-Galyameeva_Liya-LaboratoryWork-6\\4.xaml.cs",
+              "RelativeToolTip": "..\\..\\OAiP-Galyameeva_Liya-LaboratoryWork-6\\4.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T10:47:44.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "4.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\4.xaml",
+              "RelativeDocumentMoniker": "laba6\\4.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba6\\laba6\\4.xaml",
+              "RelativeToolTip": "laba6\\4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T06:51:38.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
